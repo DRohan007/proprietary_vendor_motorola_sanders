@@ -1303,23 +1303,19 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     TimeService \
     embms \
-    com.qti.location.sdk \
     com.qti.snapdragon.sdk.display \
     DTVPlayer \
     DTVService \
     embmslibrary \
     imscmlibrary \
     qcrilhook \
-    com.qualcomm.location \
     ims \
     qcrilmsgtunnel \
     izat.xt.srv \
     qti-telephony-common \
     QtiTelephonyServicelibrary \
     atfwd \
-    cneapiclient \
     com.qti.dpmframework \
-    com.quicinc.cne \
     ConnectivityExt \
     dpmapi \
     UxPerformance \
@@ -1327,11 +1323,9 @@ PRODUCT_PACKAGES += \
     qti-vzw-ims-internal \
     rcsimssettings \
     tcmclient \
-    com.quicinc.cne.api-V1.0-java \
     HotwordEnrollmentOKGoogleCS47L35 \
     HotwordEnrollmentTGoogleCS47L35 \
     HotwordEnrollmentXGoogleCS47L35 \
-    QtiTelephonyService \
-    CNEService
+    QtiTelephonyService 
 
 
